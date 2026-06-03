@@ -1,0 +1,156 @@
+USE [AdventureWorks2014]
+GO
+SET IDENTITY_INSERT [Production].[TransactionHistory] ON 
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100000, 784, 41590, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100001, 794, 41591, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100002, 797, 41592, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100003, 798, 41593, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100004, 799, 41594, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100005, 800, 41595, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100006, 801, 41596, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100007, 954, 41597, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100008, 955, 41598, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100009, 966, 41599, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100010, 968, 41600, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100011, 972, 41601, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100012, 973, 41602, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100013, 974, 41603, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100014, 977, 41604, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100015, 981, 41605, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100016, 989, 41606, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100017, 991, 41607, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100018, 998, 41608, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100019, 514, 41609, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100020, 516, 41610, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100021, 517, 41611, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100022, 518, 41612, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 7, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100023, 519, 41613, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100024, 521, 41614, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100025, 522, 41615, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100026, 722, 41616, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100027, 737, 41617, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100028, 746, 41618, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100029, 805, 41619, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 6, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100030, 806, 41620, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 12, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100031, 807, 41621, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100032, 808, 41622, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100033, 810, 41623, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100034, 811, 41624, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100035, 812, 41625, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 7, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100036, 813, 41626, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100037, 815, 41627, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100038, 816, 41628, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100039, 818, 41629, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100040, 819, 41630, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 7, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100041, 820, 41631, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100042, 821, 41632, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 5, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100043, 822, 41633, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100044, 823, 41634, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 3, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100045, 824, 41635, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100046, 826, 41636, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100047, 827, 41637, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 7, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100048, 828, 41638, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100049, 829, 41639, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 5, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100050, 833, 41640, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100051, 834, 41641, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100052, 835, 41642, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100053, 836, 41643, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100054, 839, 41644, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100055, 887, 41645, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100056, 888, 41646, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100057, 890, 41647, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100058, 892, 41648, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 2, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100059, 894, 41649, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 22, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100060, 904, 41650, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100061, 925, 41651, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100062, 943, 41652, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 1, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100063, 945, 41653, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 22, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100064, 947, 41654, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 5, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100065, 949, 41655, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 6, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100066, 950, 41656, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 12, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100067, 951, 41657, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 4, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100068, 994, 41658, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 12, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100069, 995, 41659, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 5, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100070, 996, 41660, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 5, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100071, 3, 41661, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 220, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100072, 324, 41662, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 44, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100073, 327, 41663, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 22, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100074, 328, 41664, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 10, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
+INSERT [Production].[TransactionHistory] ([TransactionID], [ProductID], [ReferenceOrderID], [ReferenceOrderLineID], [TransactionDate], [TransactionType], [Quantity], [ActualCost], [ModifiedDate]) VALUES (100075, 329, 41665, 0, CAST(N'2013-07-31T00:00:00.000' AS DateTime), N'W', 24, 0.0000, CAST(N'2013-07-31T00:00:00.000' AS DateTime))
+GO
